@@ -37,8 +37,8 @@ notepad $env:windir\system32\drivers\etc\hosts
 Clone the repository and `checkout` the `dclemp01` branch:
 
 ```
-$ git clone git@github.com:muhamadherwan/docker-compose dclemp01 && cd dclemp01
-$ git checkout dclemp01
+$ git clone git@github.com:muhamadherwan/docker-compose lemp-1.0 && cd lemp-1.0
+$ git checkout lemp-1.0
 ```
 
 Copy `.env.example` to `.env`:
